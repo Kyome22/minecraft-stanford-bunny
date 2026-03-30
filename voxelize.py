@@ -241,8 +241,8 @@ def main():
     parser.add_argument(
         "--height",
         type=int,
-        default=60,
-        help="Target height in blocks (default: 60)",
+        default=30,
+        help="Target height in blocks (default: 30)",
     )
     parser.add_argument(
         "--block",
