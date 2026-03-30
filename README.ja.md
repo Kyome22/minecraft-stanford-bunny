@@ -4,6 +4,8 @@ Stanford Bunny を Minecraft のボクセルとして設置するデータパッ
 
 バニラ環境で動作し、1コマンドで Stanford Bunny を建築できます。
 
+<img src="./screenshot.png" width="310" />
+
 ## Quick Start (データパックを使う)
 
 1. `output/stanford-bunny-datapack.zip` をワールドの `datapacks/` フォルダにコピー

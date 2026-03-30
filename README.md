@@ -6,6 +6,8 @@ Works in vanilla Minecraft — build the Stanford Bunny with a single command.
 
 [日本語ドキュメント](README.ja.md)
 
+<img src="./screenshot.png" width="310" />
+
 ## Quick Start
 
 1. Copy `output/stanford-bunny-datapack.zip` into your world's `datapacks/` folder
